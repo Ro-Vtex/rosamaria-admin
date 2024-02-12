@@ -12,7 +12,7 @@
     {
       "labelId": "admin-example.navigation.label-dropzone",
       "path": "/admin/example-dropzone",
-      "searchKeyWordsHelpers": "admin-example.navigation.table.search.kws"
+      "searchKeyWordsHelpers": "admin-example.navigation.dropzone.search.kws"
     }
   ]
 }

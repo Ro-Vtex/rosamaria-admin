@@ -5,7 +5,8 @@
   "admin-example.navigation.search.kws": "test, mock, fake",
   "admin-example.navigation.details.search.kws": "details, mock, test, hello",
   "admin-example.navigation.table.search.kws": "table, mock, test, bye",
+  "admin-example.navigation.dropzone.search.kws": "dropzone, mock, test",
   "admin-example.admin": "Example Admin",
   "admin-example.details": "Details page",
-  "admin-example.dropzone": "Excel Product Upload"
+  "admin-example.dropzone": "Excel Products Upload"
 }

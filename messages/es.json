@@ -5,6 +5,7 @@
   "admin-example.navigation.search.kws": "teste, mock, fake",
   "admin-example.navigation.details.search.kws": "detalhe, mock, test, oi",
   "admin-example.navigation.table.search.kws": "tabela, mock, test, tchau",
+  "admin-example.navigation.dropzone.search.kws": "cargar, mock, test",
   "admin-example.admin": "Admin de ejemplo",
   "admin-example.details": "Página de detalles",
   "admin-example.dropzone": "Carga de Productos Excel"

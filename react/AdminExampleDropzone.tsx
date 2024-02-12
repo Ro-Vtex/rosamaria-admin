@@ -1,9 +1,8 @@
 import React, { FC } from 'react'
 import { FormattedMessage } from 'react-intl'
 import { Layout, PageBlock, PageHeader } from 'vtex.styleguide'
-
-import './styles.global.css'
 import ProductDropzone from './components/ProductsDropzone'
+import './styles.global.css'
 
 const AdminExampleDropzone: FC<Props> = (params: any) => {
   console.log(params)
