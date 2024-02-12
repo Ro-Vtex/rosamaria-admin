@@ -6,3 +6,22 @@ body,
 .render-provider {
   height: 100%;
 }
+
+
+.products-dropzone {
+  cursor: pointer;
+}
+
+.products-dropzone--btn {
+  display: flex;
+  justify-content: start;
+  padding-top: 2rem;
+}
+
+.alert {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 2rem;
+  max-width: 500px;
+}

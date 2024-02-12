@@ -3,19 +3,18 @@ import { FormattedMessage } from 'react-intl'
 import { Layout, PageBlock, PageHeader } from 'vtex.styleguide'
 
 import './styles.global.css'
+import ProductDropzone from './components/ProductsDropzone'
 
-const AdminExampleDetail: FC<Props> = ({ params }) => {
+const AdminExampleDropzone: FC<Props> = (params: any) => {
+  console.log(params)
   return (
     <Layout
       pageHeader={
-        <PageHeader title={<FormattedMessage id="admin-example.details" />}
-        />
+        <PageHeader title={<FormattedMessage id="admin-example.dropzone" />} />
       }
     >
       <PageBlock variation="full">
-        <div>
-          Params: <pre>{JSON.stringify(params, null, 2)}</pre>
-        </div>
+        <ProductDropzone />
       </PageBlock>
     </Layout>
   )
@@ -25,4 +24,4 @@ interface Props {
   params: any
 }
 
-export default AdminExampleDetail
+export default AdminExampleDropzone;

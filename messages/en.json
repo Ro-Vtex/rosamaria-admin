@@ -1,9 +1,11 @@
 {
   "admin-example.navigation.label-group": "Example admins",
-  "admin-example.navigation.label-table": "Example table",
+  "admin-example.navigation.label-table": "Example Table",
+  "admin-example.navigation.label-dropzone": "Excel Products Upload",
   "admin-example.navigation.search.kws": "test, mock, fake",
   "admin-example.navigation.details.search.kws": "details, mock, test, hello",
   "admin-example.navigation.table.search.kws": "table, mock, test, bye",
-  "admin-example.hello-world": "Example Admin",
-  "admin-example.details": "Details page"
+  "admin-example.admin": "Example Admin",
+  "admin-example.details": "Details page",
+  "admin-example.dropzone": "Excel Product Upload"
 }
